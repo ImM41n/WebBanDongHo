@@ -1,0 +1,81 @@
+body {
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+  background:rgba(0, 0, 0, 0.199) url("https://special.vietnamplus.vn/wp-content/uploads/2021/03/omega-1507117045-66.jpg");
+  background-blend-mode: darken;
+  background-size: cover;
+  margin: 0;
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+body .gom{
+	color: red;
+}
+
+body a {
+  color: white;
+}
+
+body form {
+  background: rgba(0,0,0,0.7);
+  width: 600px;
+	border-radius: 10px;
+}
+
+body form .gom {
+  margin: 50px;
+}
+
+body form .gom p{
+  color:white;
+}
+
+
+body form .gom h2 {
+  margin-top: 45px;
+  text-align: center;
+  font-size: 25px;
+  color:white;
+  
+}
+
+
+body form .gom > input {
+  margin: 15px 0;
+  width: 500px;
+  padding: 10px;
+  border-radius: 10px;
+  font-size:18px;
+  border: transparent;
+  
+}
+body form .gom >input:forcus{
+	background-color: transparent;
+	 border: 1px solid #00B4AA;
+}
+
+body form .gom > button {
+  width: 100px;
+  padding: 10px;
+  margin: 0 200px;
+  letter-spacing: 1px;
+  background: #fff;
+  border-radius: 10px;
+}
+body form .gom > button:hover {
+	
+  font-weight:700;
+}
+
+body form .gom p {
+	color: white;
+  font-size: 16px;
+}

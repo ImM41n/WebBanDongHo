@@ -1,0 +1,74 @@
+body {
+	 font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+  background:rgba(0, 0, 0, 0.199) url("https://cdn.shopify.com/s/files/1/0923/4522/files/B3948B9D-59A8-4DBE-9D65-1A4AB4207158_2048x.jpg?v=1666370919");
+  background-blend-mode: darken;
+  background-size: cover;
+  margin: 0;
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+         
+}
+
+body a {
+  color: white;
+}
+
+body form {
+  background: rgba(0,0,0,0.6);
+  width: 600px;
+	border-radius: 20px;
+}
+
+body form .gom {
+  margin: 50px;
+}
+
+body form .gom p{
+  color:white;
+}
+body form .gom span{
+	margin-top:10px;
+  color:#ff0000;
+}
+
+
+body form .gom p {
+  margin-top: 45px;
+  text-align: center;
+  font-size: 30px;
+}
+
+body form .gom > input {
+  margin: 0px 0;
+  width: 500px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+body form .gom > button {
+	
+  width: 100px;
+  padding: 10px;
+  margin: 20px 200px;
+  letter-spacing: 1px;
+  background: #fff;
+  border-radius: 10px;
+}
+body form .gom > button:hover {
+	
+  font-weight:bold;
+}
+
+body form .gom p {
+	
+  font-size: 16px;
+}

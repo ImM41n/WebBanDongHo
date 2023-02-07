@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\INFOSEC\web\doan_web-ban-tui\doan_web-ban-tui\TuiXach-20210513T061631Z-001\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3793883326.index
+136991077.index
+657851752.index
+3141791221.index
+2991038045.index
+904473182.index
+3148798456.index
